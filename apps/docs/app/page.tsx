@@ -52,7 +52,7 @@ export default function Home() {
               width={20}
               height={20}
             />
-            Deploy now
+            Deploy now krdo bhai kitna time loge
           </a>
           <a
             href="https://turborepo.dev/docs?utm_source"
