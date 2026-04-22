@@ -1,0 +1,15 @@
+{
+  "extends": "@repo/typescript-config/backends.json",
+  "compilerOptions": {
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "strictNullChecks": true
+  },
+  "include": [
+    "**/*.ts",
+  ],
+  "exclude": ["node_modules"]
+}
